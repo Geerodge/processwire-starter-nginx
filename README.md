@@ -2,7 +2,7 @@
 
 Running all the required php extentions for [ProcessWire](https://github.com/processwire/processwire) and also the following:
 
-* PHP 7.4
+* PHP 7.4-fpm
 * NGINX
 * ImageMagick
 
