@@ -19,7 +19,7 @@ Now run docker compose command and you are good to go.
 docker-compose up
 ```
 
-The docker container where ProcessWire is installed can be accessed via 127.0.0.1, visit here in your browser to start the [ProcessWire installation](https://processwire.com/docs/start/install/new/).
+The docker container where ProcessWire is installed can be accessed via 127.0.0.1, visit this I.P. in your browser to start the [ProcessWire installation](https://processwire.com/docs/start/install/new/).
 
 Information about the mysql connection can be found in `docker-compose.yml`.
 
