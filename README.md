@@ -25,7 +25,7 @@ Information about the mysql connection can be found in `docker-compose.yml`.
 
 I run this all in vscode with the [Docker Remote](https://github.com/Microsoft/vscode-remote-release) extension. View [all my extensions here](https://github.com/Geerodge/dotfiles).
 
-## Notes
+## Important Notes - Do Not Skip
 
 * When starting the docker container for the first time the mysql settings (database name, user, pass) from docker-compose.yml will be loaded and are annoyingly persistent. Remember to use the command "docker-compose down -v" in terminal, even after closing in vscode when changing these and not being able to connect.
 
