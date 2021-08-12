@@ -1,4 +1,4 @@
-## Docker for ProcessWire
+# Docker for ProcessWire
 
 ## Installation
 
