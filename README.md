@@ -1,5 +1,11 @@
 # Docker for ProcessWire
 
+Running all the required php extentions for ProcessWire and also the following:
+
+* PHP 7.4
+* NGINX
+* ImageMagick
+
 ## Installation
 
 Clone the [ProcessWire](https://github.com/processwire/processwire) repository.
