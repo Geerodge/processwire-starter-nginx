@@ -1,6 +1,6 @@
 # Docker for ProcessWire
 
-Running all the required php extentions for [ProcessWire](https://github.com/processwire/processwire) and also the following:
+Running all the required php extensions for [ProcessWire](https://github.com/processwire/processwire) and also the following:
 
 * PHP 7.4-fpm
 * NGINX
